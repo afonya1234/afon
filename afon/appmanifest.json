@@ -1,0 +1,10 @@
+{
+	"name": "pipe repair",
+	"short_name": "pipe repair",
+	"description": "pipe repair",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
