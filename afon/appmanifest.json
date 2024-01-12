@@ -1,0 +1,10 @@
+{
+	"name": "afon",
+	"short_name": "afon",
+	"description": "pipe repair",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
